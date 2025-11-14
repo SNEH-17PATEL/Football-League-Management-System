@@ -120,10 +120,5 @@ python football_gui.py
 
 ---
 
-## 👤 Author
-**Sneh Patel**
-
----
-
 ## 📄 License
 For educational and academic use.
